@@ -4,5 +4,7 @@ Using this package, you can create programs under Windows and Linux in php langu
 
 Install:
 1- Clone this project 
-npm -i
-npm run watch OR dev
+
+2- npm - i
+
+3- npm run watch OR dev
